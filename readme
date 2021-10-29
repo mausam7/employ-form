@@ -1,0 +1,9 @@
+npx create-react-app <projet_name> OR npm init react-app <projet_name> to install react
+npm start to start react app
+babel is used to create virtual dom demonstration on babeljs.io
+for custom config npm run eject (* do only if you are professional developer)
+
+OR 
+
+use npm install to use dependecies used here
+
